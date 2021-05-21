@@ -1,4 +1,5 @@
 ## Monthly Project 1 - EDA
+  - 미국에서 무장 범죄자들에 대한 인종차별 이슈를 분석, 부가적으로 나이와 무장 방식의 관계에 대해서 확인
   - Dataset : https://www.kaggle.com/ahsen1330/us-police-shootings
 
 ### 변수 확인
